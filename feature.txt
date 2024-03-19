@@ -1,1 +1,2 @@
 This is feature branch
+for merge conflict 2
